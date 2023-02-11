@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elizabeth O. Edwards</h1>
 <h3 align="center">A passionate Product Mananger with mobile x web UI/UX design super power skills x Watson AI Chatbot engineer x Data Scientist and Amazon Author.</h3>
 
-- 🔭 I’m currently working on **Crowdfund project built on blockchain technology**
+- 🔭 I’m currently working on **Pets x Treats"** a Solana blockchain based technology to enable pet lovers around the world share fun and earn. 
 
 - 🌱 I’m currently learning **Machine learning, Blockchain dev, Devops**
 

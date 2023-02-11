@@ -1,0 +1,34 @@
+{
+    "name" : "Afro Couture",
+    "symbol" : "",
+    "seller_fee_basis_points" : 500,
+    "description" : "Collection of african faces",
+    "image" : "collection.png",
+    "attributes" : [
+       {
+         "trait_type" : "accessory",
+         "value" : "headgear"
+       }
+     ],
+     "collection" :
+     {
+       "name" : "African Models",
+       "family" : "African Models"
+     },
+     "properties" : {
+       "files" : [
+             {
+                 "uri" : "collection.png",
+                 "type" : "image/png"
+             }
+        ],
+      "category" : "image",
+      "creators" : [
+          {              
+            "address" :"8FQKXpAezQQPSR45hQgx5thFbkbu7zAs1LjvW6tw9a1y",
+            "share" : 100
+          }
+        ]
+    }
+
+}

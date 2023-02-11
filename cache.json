@@ -1,0 +1,34 @@
+{
+  "program": {
+    "candyMachine": "79zdZZeh6MPpXrT2qMtk2eoa21q86MeZcDJD2vK2fLM2",
+    "candyGuard": "",
+    "candyMachineCreator": "A4SG8hCzRazRpGXMUMP6mECzWMxFNjSRxJc1EnuSGNK6",
+    "collectionMint": "eeFvkaujHbvUELWAxfGnU4Yr3bkhE5b3L3vtFrGsRAx"
+  },
+  "items": {
+    "-1": {
+      "name": "Afro Couture",
+      "image_hash": "a937871a25e5811f7ad05eada3cc425c1513ac8dc716708da7b0970e3f47df95",
+      "image_link": "https://arweave.net/NRzPM4wikgGCnF7vnb8bnTRy_OL47xqpPta-VzpllMY?ext=png",
+      "metadata_hash": "8afa0b384bfb3b7f2b26dbf4512bc509db31fe11a711bdd62f04118fb564869f",
+      "metadata_link": "https://arweave.net/QZ641W6pVNQgzaSBEJH-9Mk2GlL0Wwv5OEFTszoBZ6U",
+      "onChain": true
+    },
+    "0": {
+      "name": "Afro Couture",
+      "image_hash": "70796d28b59793d5015490ce19f72ccbb83aabdb0779d14de134260dc7334701",
+      "image_link": "https://arweave.net/vMnTwbxhQgXzXFQ1ynv2gr8rMqFkc7JNz_t3eqXz52c?ext=png",
+      "metadata_hash": "8541e0c8216cb9fd44373930ebcedc863d3c3cefcd3e1a1bf1dc709d9eaaafdc",
+      "metadata_link": "https://arweave.net/OFaAIwaSuv-JJuqWyOY7Ys0x2WcW2JZniKGJO8CBego",
+      "onChain": true
+    },
+    "1": {
+      "name": "Afro Couture",
+      "image_hash": "74d2c3e5bb78ccc86bef9ed5a63fcf3f7b1262ffc59a126976e3c3edb10e76e8",
+      "image_link": "https://arweave.net/q-6hQAuy8eKKiFKS0JHs4QgeOwkuWpbeTnogNpVfkQs?ext=png",
+      "metadata_hash": "521d1b6f966478bad15d933ad73e66ee03880df7c3d8a1bec5c3a145c06b883b",
+      "metadata_link": "https://arweave.net/1pRtPRwkKEzJtHjKzjwXVZaSARyCEBirtlYLNxSq1xg",
+      "onChain": true
+    }
+  }
+}

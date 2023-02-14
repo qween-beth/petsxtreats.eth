@@ -22,9 +22,9 @@
 </p>
 
 
-<h3 align="left">About This Project, Fundbox</h3>
+<h3 align="left">About This Project, Pets x Treats</h3>
 <p align="left">
-Fundbox is a crowdfund platform based on blockchain tech to decentralize access to philantropic funds breaking barriers and restrictions while leveraging the security and integrity characterised by the blockchain technologies.
+a Solana blockchain based technology to enable pet lovers around the world share fun and earn.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
